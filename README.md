@@ -37,6 +37,7 @@ Outcome:
 
 A fully functional dashboard that provides real-time insights into sales performance.
 Enhanced ability for stakeholders to make informed decisions based on comprehensive sales data analysis.
+sql
 Improved understanding of sales trends and areas for strategic improvement.
 Impact:
 
